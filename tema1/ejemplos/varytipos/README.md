@@ -9,7 +9,7 @@ Cada fichero corresponde a un bloque numerado del documento: `codigo01.php` es e
 
 | Fichero | Código | Tema | Descripción |
 | --- | --- | --- | --- |
-| [`codigo01.php`](codigo01.php) | Código 1 | Qué es una variable | Crea variables, copia un valor de una a otra y sustituye un valor por otro. |
+| [`codigo01.php`](codigos/codigo01.php) | Código 1 | Qué es una variable | Crea variables, copia un valor de una a otra y sustituye un valor por otro. |
 | [`codigo02.php`](codigo02.php) | Código 2 | Cómo saber el tipo de una variable | Muestra el tipo de una variable con var_dump(), gettype() e is_float(); gettype() devuelve "double" para los float. |
 | [`codigo03.php`](codigo03.php) | Código 3 | Enteros (int) | Escribe enteros en decimal, hexadecimal, octal (permisos 0755 = 493) y binario, y usa el guion bajo como separador. |
 | [`codigo04.php`](codigo04.php) | Código 4 | Enteros (int): límite | Muestra PHP_INT_MAX y cómo PHP convierte el resultado en float al superarlo. |
