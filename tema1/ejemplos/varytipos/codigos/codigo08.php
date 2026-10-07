@@ -12,5 +12,5 @@ header("Content-Type: text/plain; charset=utf-8");
 
 $host = "servidor";
 echo $host[0] . "\n";   // s
-echo $host[-1] . "\n";  // r
+echo $host[-2] . "\n";  // r
 var_dump(strlen("canción"));
