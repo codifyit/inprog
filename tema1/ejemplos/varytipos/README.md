@@ -4,7 +4,6 @@ Ejemplos de código del documento **«Variables y tipos de datos en PHP»**, pre
 
 Cada fichero corresponde a un bloque numerado del documento: `codigo01.php` es el **Código 1**, `codigo02.php` el **Código 2**, y así sucesivamente.
 
-
 ## Índice de ejemplos
 
 | Fichero | Código | Tema | Descripción |
