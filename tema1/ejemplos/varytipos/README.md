@@ -4,26 +4,6 @@ Ejemplos de código del documento **«Variables y tipos de datos en PHP»**, pre
 
 Cada fichero corresponde a un bloque numerado del documento: `codigo01.php` es el **Código 1**, `codigo02.php` el **Código 2**, y así sucesivamente.
 
-## Requisitos
-
-- PHP 8 (por ejemplo, el incluido en XAMPP 8.0).
-- Un servidor web local (Apache de XAMPP) para los ejemplos que usan `$_GET` o `$_SERVER`.
-
-## Cómo ejecutarlos
-
-**En el navegador.** Copia la carpeta en `/opt/lampp/htdocs/` y abre, por ejemplo:
-
-```
-http://localhost/variables-tipos-php/codigo01.php
-```
-
-**En la terminal.** Desde la carpeta de los ejemplos:
-
-```bash
-/opt/lampp/bin/php codigo01.php
-```
-
-Cada fichero empieza con `header("Content-Type: text/plain; charset=utf-8");` para que los saltos de línea (`\n`) y la salida de `var_dump()` se vean correctamente en el navegador. En la terminal esa línea no tiene efecto.
 
 ## Índice de ejemplos
 
