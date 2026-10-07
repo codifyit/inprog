@@ -4,23 +4,6 @@ Ejemplos de código del documento **«Operadores y precedencia en PHP»**, prepa
 
 Cada fichero corresponde a un ejemplo numerado del documento: `ejemplo1.php` es el **Ejemplo 1**, `ejemplo2.php` el **Ejemplo 2**, y así sucesivamente. Los ejemplos van de los casos más sencillos a los que suelen provocar errores.
 
-## Requisitos
-
-- PHP 8 (por ejemplo, el incluido en XAMPP 8.0). Varios ejemplos (5, 11 y 12) se comportan de forma distinta en PHP 7.
-
-## Cómo ejecutarlos
-
-**En el navegador.** Copia la carpeta en `/opt/lampp/htdocs/` y abre, por ejemplo:
-
-```
-http://localhost/precedencia-operadores-php/ejemplos/ejemplo1.php
-```
-
-**En la terminal.** Desde la carpeta de los ejemplos:
-
-```bash
-/opt/lampp/bin/php ejemplo1.php
-```
 
 ## Índice de ejemplos
 
